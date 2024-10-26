@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunshihara&theme=onedark&column=3&count_private=true" alt="profile trophies&margin-w=8&margin-h=8&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=varunshihara&theme=onedark&column=3&row=3&count_private=true" alt="profile trophies&margin-w=8&margin-h=8&no-frame=true" />
     <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=varunshihara.varunshihara" alt="visitors">
 </div>
