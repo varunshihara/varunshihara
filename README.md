@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=varunshihara&theme=onedark&column=3&row=2&margin-w=8&margin-h=8&no-frame=true&count_private=true" alt="profile trophies" />
     <br />
     <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=varunshihara&show_icons=true&hide_border=true" alt="Varun Shihara's GitHub Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=varunshihara&show_icons=true&hide_border=true" alt="Varun Shihara's GitHub Stats">
     <br />
-    <br />
+    <br /> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=varunshihara.varunshihara" alt="visitors">
 </div>
