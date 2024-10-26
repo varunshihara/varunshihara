@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunshihara.varunshihara)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=varunshihara.varunshihara" alt="visitors">
 </div>
