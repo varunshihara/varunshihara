@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunshihara.varunshihara)
+</div>
