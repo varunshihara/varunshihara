@@ -64,6 +64,7 @@ Freelance project for an artist to showcase artwork, research, and exhibitions. 
 
 ## 🎯 Current Work & Goals
 
+- 💼 **Current Role**: Sr. Full Stack Developer at [Twin Reality](https://twinreality.in/)  
 - 📘 **Learning**: Focused on **System Design** and **DSA** to strengthen problem-solving and architectural skills.  
 - 🛠 **Applying Knowledge**: Building side projects like **ButterMoney** to put theory into practice.  
 - ✍️ **Blogging**: Writing at [codewithvarun.in](https://codewithvarun.in) to teach and document my learnings — teaching helps me understand better.  
